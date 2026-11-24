@@ -1,0 +1,6 @@
+# Never deploy recovery archives or local records
+*.zip
+stock-zirna-records.json
+
+# Local server only
+node_modules/
