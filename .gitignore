@@ -3,4 +3,7 @@
 stock-zirna-records.json
 
 # Local server only
-node_modules/
+node_modules/server.js
+START.cmd
+test.js
+RECOVERY-SHA256.txt
